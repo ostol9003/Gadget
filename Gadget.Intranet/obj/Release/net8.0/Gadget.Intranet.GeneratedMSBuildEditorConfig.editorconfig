@@ -1,0 +1,239 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gadget.Intranet
+build_property.RootNamespace = Gadget.Intranet
+build_property.ProjectDir = X:\6_V SEMESTR\Programowanie internetowych aplikacji\Projekt\Gadget\Gadget.Intranet\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = X:\6_V SEMESTR\Programowanie internetowych aplikacji\Projekt\Gadget\Gadget.Intranet
+build_property._RazorSourceGeneratorDebug = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0Um9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetRoles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0Um9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0Um9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUserRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlclJvbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUserRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlclJvbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/AspNetUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNwTmV0VXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Producers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Producers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Producers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Producers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Producers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/ProductSpecifications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNwZWNpZmljYXRpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/ProductSpecifications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNwZWNpZmljYXRpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/ProductSpecifications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNwZWNpZmljYXRpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/ProductSpecifications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNwZWNpZmljYXRpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/ProductSpecifications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFNwZWNpZmljYXRpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Shared/ProductLinks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFByb2R1Y3RMaW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Specifications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lmaWNhdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Specifications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lmaWNhdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Specifications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lmaWNhdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Specifications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lmaWNhdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Specifications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lmaWNhdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[X:/6_V SEMESTR/Programowanie internetowych aplikacji/Projekt/Gadget/Gadget.Intranet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cyjf2fx5zo

@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - Gadget.Intranet</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/Gadget.Intranet.styles.css" asp-append-version="true"/>
+</head>
+<body>
+<header>    
+    <nav class="navbar bg-body-tertiary">
+        <div class="container-fluid">
+            <div class="navbar-left">
+                <span style="color: black; font-weight: bold;">GADGET <sup>®</sup></span>
+            </div>
+            <div class="navbar-center">
+                <a href="mailto:contact@gadget.com" style="color: black; font-weight: bold;">contact@gadget.com</a>
+            </div>
+            <div class="navbar-right">
+                <span style="color: black; font-weight: bold;">+48 333 444 555</span>
+            </div>
+        </div>
+    </nav>
+
+    <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="btn btn-primary my-2 my-sm-0 me-2" asp-controller="Home" asp-action="Index">GADGET <sup>®</sup></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="navbar-nav me-auto">
+                    @if (User.Identity is {IsAuthenticated: true } && (User.IsInRole("admin") || User.IsInRole("moderator")))
+                    {
+                        <li class="nav-item">
+                            <a class="btn btn-secondary my-2 my-sm-2 " asp-controller="Pages" asp-action="Index">Pages</a>
+                        </li>
+                    }
+                    @if (User.Identity is {IsAuthenticated: true } && User.IsInRole("admin"))
+                    {
+                        <li class="btn my-2 my-sm-0 me-2">
+                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Products</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item nav-link text-black" asp-controller="Products" asp-action="Index" >Products</a>
+                                <a class="dropdown-item nav-link text-black" asp-controller="Categories" asp-action="Index" >Categories</a>
+                                <a class="dropdown-item nav-link text-black" asp-controller="Producers" asp-action="Index" >Producers</a>
+                                <a class="dropdown-item nav-link text-black" asp-controller="Specifications" asp-action="Index" >Specifications</a>
+                                <a class="dropdown-item nav-link text-black" asp-controller="ProductSpecifications" asp-action="Index" >Product - Specifications</a>
+                            </div>
+                        </li>
+                            <li class="btn my-2 my-sm-0 me-2">
+                                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Users</a>
+                                <div class="dropdown-menu">
+                                    <a class="dropdown-item nav-link text-black" asp-controller="AspNetUsers" asp-action="Index" >Users</a>
+                                    <a class="dropdown-item nav-link text-black" asp-controller="AspNetRoles" asp-action="Index" >Roles</a>
+                                    <a class="dropdown-item nav-link text-black" asp-controller="AspNetUserRoles" asp-action="Index" >User-Roles</a>
+                                </div>
+                            </li>
+                        
+                    }
+                
+                </ul>
+                <partial name="_LoginPartial"/>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+
+    </main>
+</div>
+
+<footer class="border-top footer text-muted">
+    <div class="container">
+        &copy; 2024 - Gadget.Intranet - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

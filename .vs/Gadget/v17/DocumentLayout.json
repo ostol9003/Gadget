@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.intranet\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|solutionrelative:gadget.intranet\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|solutionrelative:gadget.intranet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\phone\\deal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\phone\\deal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\phone\\tablet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\phone\\tablet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Data\\Migrations\\20240520001255_IsPromoted1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gadget.Data\\Migrations\\20240520001255_IsPromoted1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B623D50-0BEC-4421-979F-C48095914AD5}|Gadget.Data\\Gadget.Data.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.data\\data\\shop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B623D50-0BEC-4421-979F-C48095914AD5}|Gadget.Data\\Gadget.Data.csproj|solutionrelative:gadget.data\\data\\shop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.intranet\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|solutionrelative:gadget.intranet\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.intranet\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{619B5813-4038-4D25-8EFB-7D516F745D33}|Gadget.Intranet\\Gadget.Intranet.csproj|solutionrelative:gadget.intranet\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\shared\\components\\pagescomponent\\pagescomponent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\shared\\components\\pagescomponent\\pagescomponent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\phone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\phone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\details\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\details\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|x:\\6_v semestr\\programowanie internetowych aplikacji\uF028\\projekt\\gadget\\gadget.www\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DFC2D1-8713-42A6-8A64-62CAA6CD2636}|Gadget.WWW\\Gadget.WWW.csproj|solutionrelative:gadget.www\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{79664857-03bf-4bca-aa54-ec998b3328f8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Gadget.Intranet\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Gadget.Intranet\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:09:50.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gadget.Intranet\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gadget.Intranet\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAnZmZmZkewEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:08:50.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240520001255_IsPromoted1.cs",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Data\\Migrations\\20240520001255_IsPromoted1.cs",
+              "RelativeDocumentMoniker": "Gadget.Data\\Migrations\\20240520001255_IsPromoted1.cs",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Data\\Migrations\\20240520001255_IsPromoted1.cs",
+              "RelativeToolTip": "Gadget.Data\\Migrations\\20240520001255_IsPromoted1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:12:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Gadget.Intranet\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Gadget.Intranet\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAMzMzM3MvwCoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:52:57.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Gadget.Intranet\\Views\\Products\\Create.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Intranet\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Gadget.Intranet\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:51:50.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deal.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Phone\\Deal.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Phone\\Deal.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Phone\\Deal.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Phone\\Deal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:47:35.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tablet.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Phone\\Tablet.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Phone\\Tablet.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Phone\\Tablet.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Phone\\Tablet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:43:34.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagesComponent.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Shared\\Components\\PagesComponent\\PagesComponent.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Shared\\Components\\PagesComponent\\PagesComponent.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Shared\\Components\\PagesComponent\\PagesComponent.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Shared\\Components\\PagesComponent\\PagesComponent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T23:07:07.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Phone\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Phone\\Index.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Phone\\Index.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Phone\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:55:31.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneController.cs",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Controllers\\PhoneController.cs",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Controllers\\PhoneController.cs",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Controllers\\PhoneController.cs",
+              "RelativeToolTip": "Gadget.WWW\\Controllers\\PhoneController.cs",
+              "ViewState": "AQIAABAAAAAALDMzMzPjvx8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:51:37.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Data\\Data\\Shop\\Product.cs",
+              "RelativeDocumentMoniker": "Gadget.Data\\Data\\Shop\\Product.cs",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.Data\\Data\\Shop\\Product.cs",
+              "RelativeToolTip": "Gadget.Data\\Data\\Shop\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:58:22.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Controllers\\HomeController.cs",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Gadget.WWW\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:52:56.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Controllers\\DetailsController.cs",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "Gadget.WWW\\Controllers\\DetailsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T22:28:47.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:27:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Home\\Index.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAACAMzMzMzMrwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:26:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Details\\Details.cshtml",
+              "RelativeDocumentMoniker": "Gadget.WWW\\Views\\Details\\Details.cshtml",
+              "ToolTip": "X:\\6_V SEMESTR\\Programowanie internetowych aplikacji\uF028\\Projekt\\Gadget\\Gadget.WWW\\Views\\Details\\Details.cshtml",
+              "RelativeToolTip": "Gadget.WWW\\Views\\Details\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAQAAAMAtwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T22:21:21.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

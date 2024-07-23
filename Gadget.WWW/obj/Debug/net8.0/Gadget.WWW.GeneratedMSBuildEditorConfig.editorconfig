@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gadget.WWW
+build_property.RootNamespace = Gadget.WWW
+build_property.ProjectDir = /Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Details/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGV0YWlscy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Phone/Deal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGhvbmUvRGVhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Phone/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGhvbmUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Phone/Tablet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGhvbmUvVGFibGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Shared/Components/PagesComponent/PagesComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUGFnZXNDb21wb25lbnQvUGFnZXNDb21wb25lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mkvsu2fn4m

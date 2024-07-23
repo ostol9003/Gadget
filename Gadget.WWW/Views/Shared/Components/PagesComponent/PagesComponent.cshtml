@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Gadget.Data.Data.CMS.Page>
+
+
+<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+    <ul class="navbar-nav flex-grow-1">
+        
+        <li class="nav-item">
+            <a class="nav-link text-dark"  asp-controller="Phone" asp-action="Index">Phone</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark"  asp-controller="Phone" asp-action="Tablet">Tablet</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-dark"  asp-controller="Phone" asp-action="Deal">DEAL</a>
+        </li>
+        @foreach (var item in Model)
+        {
+            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Pages" asp-action="Index" asp-route-id="@item.PageId">@item.TitleLink</a>
+            </li>
+        }
+
+    </ul>
+</div>

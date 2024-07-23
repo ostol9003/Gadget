@@ -1,0 +1,59 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+.content {
+    padding: 20px;
+    color: black;
+
+}
+.card {
+    background-color: transparent; /* Usuniêcie t³a */
+}
+
+.card-img-top {
+    width: 80%; /* Ustalenie 100% szerokoœci */
+    height: 200px; /* Ustalenie 200px wysokoœci */
+    background-size: cover; /* Dopasowanie t³a do wymiarów kontenera */
+    background-position: center; /* Ustawienie pozycji t³a na œrodku */
+    background-repeat: no-repeat; /* Wy³¹czenie powtarzania t³a */
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+

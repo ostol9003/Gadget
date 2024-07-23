@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Microsoft.AspNetCore.Identity.IdentityUser>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<div class="table-responsive">
+    <table class="table table-hover table-striped">
+        <thead class="table-light">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UserName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.EmailConfirmed)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PhoneNumber)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PhoneNumberConfirmed)
+                </th>
+            
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.EmailConfirmed)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumberConfirmed)
+                    </td>
+                  
+                    <td class="text-center">
+                        <a class="btn btn-sm btn-info" asp-action="Edit" asp-route-id="@item.Id">
+                            <img class="icon" src="~/icons/edit.png" alt="Edit" title="Edit">
+                        </a>
+                        <a class="btn btn-sm btn-secondary" asp-action="Details" asp-route-id="@item.Id">
+                            <img class="icon" src="~/icons/info.png" alt="Details" title="Details">
+                        </a>
+                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">
+                            <img class="icon" src="~/icons/bin.png" alt="Delete" title="Delete">
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

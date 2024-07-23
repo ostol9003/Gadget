@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Gadget.Data.Data.Users.UsersRolesNames>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="css/site.css">
+<h1>Index</h1>
+
+<p>
+    <a class="btn btn-sm btn-primary" asp-action="Create">Create New</a>
+</p>
+<div class="table-responsive">
+    <table class="table table-hover table-striped">
+        <thead class="table-light">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RoleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RoleId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserId)
+                </td>
+                <td class="text-center">
+                    <a class="btn btn-sm btn-info" asp-action="Edit" asp-route-id="@item.RoleId, @item.UserId">
+                        <img class="icon" src="~/icons/edit.png" alt="Edit" title="Edit">
+                    </a> 
+                    <a class="btn btn-sm btn-secondary" asp-action="Details" asp-route-id="@item.RoleId, @item.UserId">
+                        <img class="icon" src="~/icons/info.png" alt="Details" title="Details">
+                    </a> 
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" name="roleId" value="@item.RoleId" />
+                        <input type="hidden" name="userId" value="@item.UserId" />
+                        <button onclick="openModal()" class="btn btn-sm btn-danger" type="submit">
+                            <img class="icon" src="~/icons/bin.png" alt="Delete" title="Delete">
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

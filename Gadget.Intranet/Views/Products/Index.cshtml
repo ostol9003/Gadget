@@ -1,0 +1,96 @@
+﻿@model IEnumerable<Gadget.Data.Data.Shop.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="css/site.css">
+<h1>Index</h1>
+
+<p>
+    <a class="btn btn-sm" asp-action="Create">Create New</a>
+</p>
+<div class="table-responsive">
+<table class="table table-hover table-striped">
+    <thead class="table-light">
+    <tr>
+        <th>
+            #
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th style="max-width: 200px; word-wrap: break-word">
+            @Html.DisplayNameFor(model => model.PhotoUrl)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Availability)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Producer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th class="text-center">
+            Actions
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td style="max-width: 200px; word-wrap: break-word">
+                <a href="@item.PhotoUrl">@item.PhotoUrl</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Availability)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producer.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td class="text-center">
+                <a class="btn btn-sm btn-info" asp-action="Edit" asp-route-id="@item.Id">
+                    <img class="icon" src="~/icons/edit.png" alt="Edit" title="Edit">
+                </a>
+                <a class="btn btn-sm btn-secondary" asp-action="Details" asp-route-id="@item.Id">
+                    <img class="icon" src="~/icons/info.png" alt="Details" title="Details">
+                </a>
+                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">
+                    <img class="icon" src="~/icons/bin.png" alt="Delete" title="Delete">
+                </a>
+            </td>
+
+        </tr>
+    }
+    </tbody>
+</table>
+</div>

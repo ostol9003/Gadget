@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gadget.Intranet
+build_property.RootNamespace = Gadget.Intranet
+build_property.ProjectDir = /Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0Um9sZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetRoles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0Um9sZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0Um9sZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUserRoles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlclJvbGVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUserRoles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlclJvbGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/AspNetUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNwTmV0VXNlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Producers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Producers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjZXJzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Producers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjZXJzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Producers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjZXJzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Producers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjZXJzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/ProductSpecifications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdFNwZWNpZmljYXRpb25zL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/ProductSpecifications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdFNwZWNpZmljYXRpb25zL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/ProductSpecifications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdFNwZWNpZmljYXRpb25zL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/ProductSpecifications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdFNwZWNpZmljYXRpb25zL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/ProductSpecifications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdFNwZWNpZmljYXRpb25zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Shared/ProductLinks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1Byb2R1Y3RMaW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Specifications/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lmaWNhdGlvbnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Specifications/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lmaWNhdGlvbnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Specifications/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lmaWNhdGlvbnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Specifications/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lmaWNhdGlvbnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Specifications/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY2lmaWNhdGlvbnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Intranet/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-df1tz9ad02

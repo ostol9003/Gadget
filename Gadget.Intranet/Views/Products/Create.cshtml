@@ -1,0 +1,94 @@
+﻿@model Gadget.Data.Data.Shop.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhotoUrl" class="control-label"></label>
+                <input asp-for="PhotoUrl" class="form-control" />
+                <span asp-validation-for="PhotoUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Availability" /> @Html.DisplayNameFor(model => model.Availability)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input type="checkbox" class="form-check-input" asp-for="IsPromoted" /> @Html.DisplayNameFor(model => model.IsPromoted)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoriesId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProducerId" class="control-label"></label>
+                <select asp-for="ProducerId" class ="form-control" asp-items="ViewBag.ProducersId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+           
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label>Specifications:</label><br />
+                    @foreach (var spec in ViewBag.SpecificationsVB)
+                    {
+                        <div class="form-group">
+                            <input type="checkbox" name="specifications" value="@spec.Id" onchange="toggleTextBox(this)" />
+                            <label>@spec.Name</label>
+                            <input type="text" name="specValues" class="form-control form-control-sm" placeholder="Enter value" disabled />
+                        </div>
+                    }
+
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+   
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-sm">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+<script>
+    function toggleTextBox(checkbox) {
+        var textBox = checkbox.nextElementSibling.nextElementSibling; // znajdź następny element po checkboxie
+        textBox.disabled = !checkbox.checked; // aktywuj lub dezaktywuj textbox w zależności od stanu checkboxa
+    }
+</script>
+}

@@ -1,0 +1,16 @@
+﻿@model Gadget.Data.Data.CMS.Page
+@{
+    ViewData["Title"] = Model.TitleLink;
+}
+
+<div class = "container">
+    <h4>
+        @Model.Title
+    </h4>
+    <div class="content">
+        <p class="lh-sm">
+            @Html.Raw(Model.PageContent)
+        </p> 
+    </div>
+   
+</div>

@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Gadget.WWW.csproj": {}
+  },
+  "projects": {
+    "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Data/Gadget.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Data/Gadget.Data.csproj",
+        "projectName": "Gadget.Data",
+        "projectPath": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Data/Gadget.Data.csproj",
+        "packagesPath": "/Users/Ostol/.nuget/packages/",
+        "outputPath": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ostol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Ostol/.dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/Ostol/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Gadget.WWW.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Gadget.WWW.csproj",
+        "projectName": "Gadget.WWW",
+        "projectPath": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/Gadget.WWW.csproj",
+        "packagesPath": "/Users/Ostol/.nuget/packages/",
+        "outputPath": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.WWW/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Ostol/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Ostol/.dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Data/Gadget.Data.csproj": {
+                "projectPath": "/Users/Ostol/Desktop/WSB-NLU/6_V SEMESTR/Programowanie internetowych aplikacji /Gadget/Gadget.Data/Gadget.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/Ostol/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
